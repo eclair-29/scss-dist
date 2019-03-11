@@ -1,4 +1,4 @@
-![brand](https://github.com/eclair-29/scss-dist/blob/master/__scss-brand.jpg))
+![brand](https://github.com/eclair-29/scss-dist/blob/master/__scss-brand.jpg)
 
 #### Includes
 1. [bourbon](https://www.bourbon.io/) package, a lightweight sass tool set
